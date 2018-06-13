@@ -3,7 +3,7 @@ require 'scraperwiki.php';
 require 'scraperwiki/simple_html_dom.php';
 //
 /** looping over list of ids of doctors **/
-for($id = 1246029; $id <= 1315733; $id++)
+for($id = 1256028; $id <= 1315733; $id++)
 	
 	
 	{
